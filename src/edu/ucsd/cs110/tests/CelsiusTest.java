@@ -1,6 +1,5 @@
 package edu.ucsd.cs110.tests;
 
-import static org.junit.jupiter.api.Assertions.*;
 import edu.ucsd.cs110.temperature.Celsius;
 import edu.ucsd.cs110.temperature.Temperature;
 import junit.framework.TestCase;
